@@ -2,7 +2,7 @@
  * 
  */
 
-package hw4;
+package com.example;
 
 public class Person {
 

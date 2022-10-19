@@ -1,9 +1,9 @@
-package hw4;
+package com.example;
 
 /**
  * exercise 1
  * ListManipulator.java
- *  @author vuaivantrinhsjgmail.com
+ *  @author lam.vong@sjsu.edu
  *This homework’s objective is to review 
  *and understand the unit on Java collections and how to
  *use them in your Java application.
